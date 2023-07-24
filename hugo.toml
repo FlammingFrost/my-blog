@@ -1,4 +1,6 @@
 baseURL = 'https://flammingfrost.github.io/my-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "FF's blog"
 theme = 'hugo-theme-stack'
+enableEmoji = true
+enableInlineShortcodes = true

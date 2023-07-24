@@ -7,13 +7,17 @@ aliases:
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-07-25'
 menu:
     main: 
         weight: -90
         params:
             icon: user
 ---
+
+Hello there! 
+
+I am **FlammingFrost**, or you can call me **FireFly**(Both are "FF"). **DeepDarkFan** is another name, more frequently used in games.
 
 I am now a junior student in [SUSTech](https://www.sustech.edu.cn/)(Southern University of Science and Technology). Major in Data Science.
 
@@ -25,13 +29,20 @@ Here I would like to share my life with you! It may include some travel-blogs, f
 
 I would also post some blog about machine-learning, but not here.(Some links)
 
+![](gallery.JPG)
+
 Hobbies:
 
 - Cycling
+
 - Drone Photography
+
 - Exploring new places
+
 - Culinary Exploration
+
 - Cooking
+
 - Reading
 
 Other Platform:

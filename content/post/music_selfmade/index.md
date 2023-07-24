@@ -4,7 +4,7 @@ title = "Wake me up when September ends--Green Day"
 date = "2021-05-05"
 description = "Once I hoped to be a bank"
 categories = [
-    
+    "Video"
 ]
 tags = [
     "music",
