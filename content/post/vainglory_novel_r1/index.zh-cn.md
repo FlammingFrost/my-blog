@@ -7,6 +7,9 @@ image: Vainglory-vg-OfficialArt-Catherine-Kestrel-1208523-wallhere.com.jpg
 categories:
     - Fiction
     - Chinese
+tags:
+    - literature
+    - game
 ---
 
 ## 第一章：初来乍到
