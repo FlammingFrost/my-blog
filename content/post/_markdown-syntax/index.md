@@ -3,6 +3,7 @@ author = "Hugo Authors"
 title = "Markdown Syntax Guide"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+slug = "markdown-syntax"
 tags = [
     "markdown",
     "css",
@@ -16,6 +17,7 @@ categories = [
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+math = true
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
@@ -72,6 +74,37 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 | A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
 |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
+
+## Math
+
+#### Inline math
+
+This expression $\sqrt{3x-1}+(1+x)^2$ is an example of an inline equation.
+
+With double "_" you can specify the index: $x_i^2 = x_j^2 + x_k^2$
+
+- Generally, value function can evaluate how good is the Action/State/Policy.
+- $Q_\pi(s,a)$ caluculate the expect return of an agent picking action $a$ while in state $s$, under policy $\pi$.
+- Optimal action-value function evaluates the value of an action. Independent of policy.
+- State-value function evaluates the "value" of a state. Under a specific policy.
+- $ \mathbb{E}_S[V_{ \pi }(S)] $ can be use to evaluate the performance of poilicy $ \pi $
+
+
+$$
+\mathbb{E}_{S} V^{\pi}_{\pi}(S) D_x T_j
+$$
+
+$$
+[V_{\pi}(S)]
+$$
+
+- $\mathbb{E}_S[V_a(S)]$
+- $T_{\pi}$
+- $[V_{\pi}(S)]$
+- $\mathbb{E}_S$
+- $ \$ $
+
+
 
 ## Code Blocks
 
