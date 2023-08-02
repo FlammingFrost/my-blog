@@ -1,16 +1,26 @@
-+++
-author = "比医刻骨"
-title = "Wake me up when September ends--Green Day"
-date = "2021-05-05"
-description = "Once I hoped to be a bank"
-categories = [
+---
+author: "比医刻骨"
+title: "Wake me up when September ends--Green Day"
+date: "2021-05-05"
+description: "Once I hoped to join a bank"
+categories: [
     "Video"
 ]
-tags = [
+tags: [
     "music",
 ]
-image = "summer.jpg"
-+++
+image: "summer.jpg"
+links: 
+  - title: 比医刻骨 - Bilibili
+    description: Visit my Bilibili homepage
+    website: https://space.bilibili.com/15122822/
+    image: luo's-avatar.webp
+---
+
+
+
+
+
 Such a fancy dream. 
 
 I planed and completed the idea within a 3-day holiday. But after such a "great achievement" for me, my enthusiasm for music started to fade away...
