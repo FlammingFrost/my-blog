@@ -1,0 +1,2 @@
+# Categories 的创建
+1. 文件夹的名称需要和markdown文件的名称一致。 在Archives类别中现实的名称可以和文件夹的名称不一致。通过修改markdown文件中的title属性来实现。

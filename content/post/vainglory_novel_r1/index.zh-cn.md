@@ -2,7 +2,7 @@
 title: A Dream in Halcyon
 description: I had to face the reality...
 date: 2023-07-24
-slug: chinese-fiction
+slug: Vainglory_novel_r1
 image: Vainglory-vg-OfficialArt-Catherine-Kestrel-1208523-wallhere.com.jpg
 categories:
     - Fiction
