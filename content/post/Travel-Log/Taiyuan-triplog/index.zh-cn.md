@@ -11,6 +11,7 @@ tags:
     - life-sharing
     - travel
 toc: true
+draft: false
 ---
 
 **写在前头**
@@ -107,8 +108,7 @@ toc: true
 
 我想不明白到底是什么人会来这里玩。本地人吧，这里的东西贵的不行，而且人挤人岂不折腾；游客吧，真有人脑抽像我们一样来太原旅游？
 
+不过也好，我已经养成了这种生活式旅游的习惯。也不抢着去什么旅游景点，就尝试着融入一下本地人的生活轨迹，至少是想象中的生活轨迹。
 
+## 太原的面
 
-> 以上内容创作于2016年，与2023年做了一些拼写上的修正。在未来也许会更更新后续内容。
->
-> Created in Year 2016 b FlammingFrost. Edited in 2023 to remove some typo. Possibilities are that I will continue the fiction.
