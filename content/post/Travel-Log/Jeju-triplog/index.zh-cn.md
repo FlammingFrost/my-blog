@@ -1,8 +1,8 @@
 ---
 title: 济州岛之行（计划写作）
-description: 太原是一座洒满朝阳的城市，宽敞空荡的街道却显示着这个省会城市的暮气与曾经的志向。这是我到达的第一个北方城市。
+description: 济州岛之行简介。
 date: 2023-10-18
-slug: Travel-log-Taiyuan
+slug: Travel-log-Jeju
 image: taiyuan-msm.JPG
 categories:
     - Travel-Log

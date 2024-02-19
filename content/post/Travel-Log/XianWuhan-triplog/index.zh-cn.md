@@ -1,8 +1,8 @@
 ---
 title: 西安与武汉游记（计划写作）
-description: 太原是一座洒满朝阳的城市，宽敞空荡的街道却显示着这个省会城市的暮气与曾经的志向。这是我到达的第一个北方城市。
+description: 西安武汉简介。
 date: 2023-10-18
-slug: Travel-log-Taiyuan
+slug: Travel-log-XianWuhan
 image: taiyuan-msm.JPG
 categories:
     - Travel-Log
